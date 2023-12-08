@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702068118 source:c:\users\drago\onedrive\desktop\temaso\temaso\main.cpp
+	<iostream>
+	<Windows.h>
+
+1702068128 source:c:\users\drago\onedrive\desktop\temaso\temaso\child.cpp
+	<iostream>
+
